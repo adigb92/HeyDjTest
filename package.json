@@ -83,7 +83,9 @@
   },
   "devDependencies": {
     "@types/bootstrap": "^5.2.6",
+    "@babel/plugin-proposal-private-property-in-object",
     "@types/file-saver": "^2.0.7",
     "concurrently": "^8.2.0"
   }
+
 }
